@@ -65,7 +65,7 @@ if(bt=='w')
  lightoff(); 
 }
 }
-
+//optimized the code
 // function for going forwardsc
 void forward()
 {
